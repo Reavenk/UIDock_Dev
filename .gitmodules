@@ -1,0 +1,3 @@
+[submodule "Assets/Refs/UIDock_Core"]
+	path = Assets/Refs/UIDock_Core
+	url = https://github.com/Reavenk/UIDock_Core.git
