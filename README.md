@@ -22,6 +22,9 @@ information on Props.
 The scene SampleScene shows a simple demo of how to use. See the script Test.cs for
 its implementation.
 
+This is the development/testing and sample repository that contains the core library
+as a submodule. To only reference the core library, see https://github.com/Reavenk/UIDock_Core.
+
 # How To Modify
 
 Assigned of different layout variables and assets is done in a DockProps file. It 
